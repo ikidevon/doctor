@@ -1,0 +1,70 @@
+body{
+
+	background-image: url("tvfr.png");
+}
+div{
+	margin: 0;
+	padding: 0;
+}
+section{
+	width: 500px;
+	margin: 0 auto;
+	padding: 0;
+	position: relative;
+	
+}
+
+section div#corpsHumain, section div#text{
+	height: 500px;
+	
+}
+#corpsHumain{
+	
+	
+	width: 100%;
+
+}
+#text{
+	width: 350px;
+	margin-left: 250px;
+}
+
+.rond{
+	background-color:;
+	width: 45px;
+	height: 45px;
+	border-radius: 50%;
+	position: absolute;
+}
+.active{
+	
+}
+.texte{
+	display: none;
+}
+
+
+#epaule{
+	top: 24%;
+	left: 22%;
+}
+#coude{
+	top: 34%;
+	left: 42%;
+}
+#poignet{
+	top: 38%;
+	left: 20%;
+}
+#hanche{
+	top: 40%;
+	left: 37%;
+}
+#genoux{
+	top: 51%;
+	left: 25%;
+}
+#cheville{
+	top: 60%;
+	left: 37%;
+}
